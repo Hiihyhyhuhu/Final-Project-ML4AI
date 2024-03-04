@@ -1,0 +1,168 @@
+shop_id,web,logo,shop_name,category_sell,products_num,rate_num,rate_sco,join_time,follower,chat_response,shop_path
+0,shopee,database/shop/image001.png.png,AOKANG,"Jackets & Coats, Pants, Hoodies & Sweatshirts",1.700,27.700,"4,5",2021,150.700,100%,https://shopee.vn/aokang.vn?shopCollection=245047059#product_list
+1,shopee,database/shop/image002.png.png,CLOUDZY,"Jackets & Coats, Pants, Hoodies & Sweatshirts",94,37.100,"4,8",2022,179.300,100%,https://shopee.vn/cloudzy_official
+2,shopee,database/shop/image003.png.png,Mabel_storevn,"Shorts, Hoodies & Sweatshirts",154,1.500,"4,6",2022,7.300,97%,https://shopee.vn/mabel_storevn
+3,shopee,database/shop/image004.png.png,LaLa Shop,"Shirts, Pants, Skirts, Dresses",4.400,29.200,4.2,2016,94.600,90%,https://shopee.vn/leyenngoc1003?categoryId=100017&entryPoint=ShopByPDP&itemId=15905333158
+4,shopee,database/shop/image005.png,SHEIN NUTI,"Shirts, Skirts, Dresses, Bags",131,7.700,4.6,2019,13.900,59%,https://shopee.vn/sheinnuti?categoryId=100017&entryPoint=ShopByPDP&itemId=13535708611
+5,shopee,database/shop/image006.png,KEN.CO SHOP(Quan Cuong Wholesale Warehouse),"Shirts,Pants, Skirts",301,38.200,4.8,2019,91.100,92%,https://shopee.vn/xuongmayquancuong?categoryId=100017&entryPoint=ShopByPDP&itemId=16616964181
+6,shopee,database/shop/image007.png,Hh.vintageshop,"Shirts, Pants, Skirts, Dresses",290,8.100,4.8,2020,25.200,97%,https://shopee.vn/hh.vintageshop?categoryId=100017&entryPoint=ShopByPDP&itemId=17094774784
+7,shopee,database/shop/image008.png,IVY STORE77,"Shirts, Pants, Skirts, Dresses",797,11.300,4.8,2016,15.300,35%,https://shopee.vn/banhangonline77?categoryId=100017&entryPoint=ShopByPDP&itemId=18910538540
+8,shopee,database/shop/image009.png,21room.sg,"Shirts, Skirts, Dresses",598,8.500,4.8,2016,140.600,91%,https://shopee.vn/21room.sg?categoryId=100017&entryPoint=ShopByPDP&itemId=18586285596
+9,shopee,database/shop/image010.png,MORSELA,"Shirts, Skirts, Pants, Accessories",57,16.600,4.9,2018,98.400,100%,https://shopee.vn/morsela.vn?categoryId=100017&entryPoint=ShopByPDP&itemId=19831430306
+10,shopee,database/shop/image011.png,THIEN YET WHOLESALE (= ODD),"Shirts, Skirts, Pants, Dresses",783,81.600,4.7,2016,105.300,76%,https://shopee.vn/thienyetxuongmayquanaonu?categoryId=100017&entryPoint=ShopByPDP&itemId=21252294049
+11,shopee,database/shop/image012.png,Moolys Official,"Shirts, Skirts, Dresses",64,1.300,4.9,2021,23.800,95%,https://shopee.vn/moolys.vn?categoryId=100017&entryPoint=ShopByPDP&itemId=21591318853
+12,shopee,database/shop/image013.png,EDINI,"Shirts, Skirts, Pants, Dresses",400,17.900,4.9,2019,165.400,88%,https://shopee.vn/edini.vn?categoryId=100017&entryPoint=ShopByPDP&itemId=22442417943
+13,shopee,database/shop/image014.png,Tiela,"Dresses, Skirts",404,9.200,4.9,2018,127.200,99%,https://shopee.vn/tiela.clothes?categoryId=100017&entryPoint=ShopByPDP&itemId=9077425488
+14,shopee,database/shop/image015.png,Lyihome.20,"Shirts, Skirts, Dresses",423,2.600,4.7,2021,11.700,81%,https://shopee.vn/lyihome?categoryId=100017&entryPoint=ShopByPDP&itemId=18555577675
+15,shopee,database/shop/image016.png,TOPTIFY Official Store,"Shirts, Skirts, Dresses, Pants",150,64.400,4.9,2020,611.600,89%,https://shopee.vn/toptify?categoryId=100017&entryPoint=ShopByPDP&itemId=18926114039
+16,shopee,database/shop/image017.png,Mieu Fashionista,"Shirts, Skirts, Pants, Dresses",327,9.700,4.9,2015,82.300,96%,https://shopee.vn/mieufashionista?categoryId=100017&entryPoint=ShopByPDP&itemId=21690036930
+17,shopee,database/shop/image018.png,KIOBI CLOTHING,"Shirts, Skirts, Pants, Coats",139,904,4.8,2016,21.600,87%,https://shopee.vn/kiobi.vintage?categoryId=100017&entryPoint=ShopByPDP&itemId=21588361457
+18,shopee,database/shop/image019.png,remmus.n,"Shirts, Skirts, Pants, Dresses",287,6.400,4.9,2017,98.300,98%,https://shopee.vn/remmusremmus?categoryId=100017&entryPoint=ShopByPDP&itemId=22084171202
+19,tiki,database/shop/image020.png,Eva Design,"Shirts, Skirts, Shorts",79,1.400,4.5,2020,1.400,88%,https://tiki.vn/cua-hang/eva-design?t=product
+20,shopee,database/shop/image021.png,JUDINO OFFICIAL STORE,"Shirts, Skirts, Dresses",29,1.100,5,2023,827,75%,https://shopee.vn/judino.official?categoryId=100017&entryPoint=ShopByPDP&itemId=23674971576
+21,shopee,database/shop/image022.png,CLÉLIE OFFICIAL,"Shirts, Skirts, Dresses, Pants, Shorts",159,9.700,"4,9",2021,220.200,91%,https://shopee.vn/clelie.2022
+22,shopee,database/shop/image023.png,Mina Dress,Dresses,76,6.600,"4,9",2017,105.000,99%,https://shopee.vn/minaboutiquefashion?categoryId=100017&entryPoint=ShopByPDP&itemId=16672776133
+23,shopee,database/shop/image024.png,tubycatu,"Shirts, Skirts, Blouses, Pants, Pijamas",252,22.300,"4,9",2018,164.600,95%,https://shopee.vn/tubycatu?categoryId=100017&entryPoint=ShopByPDP&itemId=7445626431
+24,tiki,database/shop/image025.png,Chiki home fashion,"Pyjamas, Pants, Leggings",68,212,"4,4",2019,177,,https://tiki.vn/cua-hang/thoi-trang-mac-nha-chiki?t=storeInfo
+25,shopee,database/shop/image026.png,EmilyShop 페션,"Skirts, Dresses, Jeans,Shirts",2.100,69.200,"4,9",2016,354.600,46%,https://shopee.vn/emilyshop.official?categoryId=100017&entryPoint=ShopByPDP&itemId=21351772644
+26,shopee,database/shop/image027.png,Leila Closet,"Skirts, Dresses, Pants, Shorts, Shirts, Accessories",99,1.600,5,2020,37.400,95%,https://shopee.vn/leilacloset?categoryId=100017&entryPoint=ShopByPDP&itemId=11779952507
+27,shopee,database/shop/image028.png,Zomi Official,"Skirts, Jeans, Shirts,Dresses",123,8.800,"4,9",2017,69.600,100%,https://shopee.vn/zomi_shop?categoryId=100017&entryPoint=ShopByPDP&itemId=7382292652
+28,shopee,database/shop/image029.png,darling.ism,"Skirts, Shorts, Shirts, Dresses",122,4.100,5,2016,63.700,98%,https://shopee.vn/darling.ism?categoryId=100017&entryPoint=ShopByPDP&itemId=22129103191
+29,shopee,database/shop/image030.png,ByDi.official,Dresses,74,547,"4,9",2020,26.300,98%,https://shopee.vn/bydi2020?categoryId=100017&entryPoint=ShopByPDP&itemId=23622474714
+30,shopee,database/shop/image031.png,RAP Vietnam,"Accessories, Footwears, Bags, Dresses",205,4.900,"4,8",2018,120.500,57%,https://shopee.vn/rapthietke?categoryId=100017&entryPoint=ShopByPDP&itemId=6633901452
+31,shopee,database/shop/image032.png,LOVITO OFFICIAL STORE,Spare parts,13.800,774.200,"4,8",2021,2.200.000,98%,https://shopee.vn/lovito.vn?categoryId=100009&entryPoint=ShopByPDP&itemId=20295355046&upstream=search
+32,shopee,database/shop/image033.png,QO Accessories,Spare parts,363,158.100,"4,9",2015,301.400,92%,https://shopee.vn/qtkoanh?categoryId=100009&entryPoint=ShopByPDP&itemId=3261115659
+33,shopee,database/shop/image034.png,Dou Collection,Spare parts,899,46.600,"4,9",2017,108.500,87%,https://shopee.vn/doucollection?categoryId=100009&entryPoint=ShopByPDP&itemId=23087481855&upstream=search
+34,shopee,database/shop/image035.png,Camellia Mart,Spare parts,72,15.400,"4,9",2017,48.900,68%,https://shopee.vn/camellia.mart?categoryId=100009&entryPoint=ShopByPDP&itemId=12447967677
+35,shopee,database/shop/image036.png,BeeCrazee,Spare parts,1.700,261.400,"4,9",2017,171.400,95%,https://shopee.vn/bee_crazee?categoryId=100009&entryPoint=ShopByPDP&itemId=13463111122
+36,shopee,database/shop/image037.png,AZ Embroidered Hat,Spare parts,417,9.100,"4,9",2018,11.600,83%,https://shopee.vn/nontheuaz?categoryId=100009&entryPoint=ShopByPDP&itemId=7417792163
+37,shopee,database/shop/image038.png,HS Accessories,Spare parts,121,6.500,"4,8",2021,9.700,100%,https://shopee.vn/hs_accessories?categoryId=100009&entryPoint=ShopByPDP&itemId=18634400749
+38,tiki,database/shop/image039.png,Hanh Duong Official,Spare parts,366,5.700,"4,6",2019,1.100,,https://tiki.vn/cua-hang/hanh-duong-official?t=storeInfo
+39,tiki,database/shop/image040.png,US ARMY OFFICIAL,Spare parts,69,2.600,"4,7",2022,406,60%,https://tiki.vn/cua-hang/us-army-official?t=storeInfo
+40,tiki,database/shop/image041.png,SOTAGO,Spare parts,393,4.900,"4,4",2019,1.600,100%,https://tiki.vn/cua-hang/sohogo?t=storeInfo
+41,shopee,database/shop/image042.png,Teelab Official,"Jacket & Coat, Shirt, Short",120,301.100,4.9,2021,1.600.000,97%,https://shopee.vn/teelab_official
+42,shopee,database/shop/image043.png,wonderhouse,"Skirts, Dresses",151,2.000,"4,9",2018,33.700,96%,https://shopee.vn/wonderhouse?categoryId=100017&entryPoint=ShopByPDP&itemId=19583310737
+43,shopee,database/shop/image044.png,Nhat Vy Boutique,Dresses,1.500,48.000,"4,9",2018,220.400,91%,https://shopee.vn/nhat_vy_boutique?categoryId=100017&entryPoint=ShopByPDP&itemId=25000166223
+44,lazada,database/shop/image045.png,Thieu Hoa,Dresses,,,"4,9",,5.144,95%,https://www.lazada.vn/thieu-hoa/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+45,tiki,database/shop/image046.png,iBasic Official Store,"Shorts, Trunks & Boxers",212,3.900,"4,7",2017,12.000,98%,https://tiki.vn/cua-hang/ibasic?t=storeInfo
+46,lazada,database/shop/image047.png,Dottie Store,"Dressess, Pants",,,"4,7",,89.465,100%,https://www.lazada.vn/shop/dottie-store/?spm=a2o4n.pdp_revamp.seller.1.23581812fl9APT&itemId=2132675068&channelSource=pdp
+47,shopee,database/shop/image048.png,Smaker,"Short, Socks, Pants, Shirts",110,1.600,"4,9",2021,27.800,85%,https://shopee.vn/smakerclothing?categoryId=100011&entryPoint=ShopByPDP&itemId=23713125489
+48,lazada,database/shop/image049.png,Wholesale Warehouse - Guangzhou,"Shirts, Skirts, Pants, Shorts, Pijamas, Accessories",,,"4,4",2018,88.161,25%,https://www.lazada.vn/shop/kho-hang-si-quang-chau/?spm=a2o4n.pdp_revamp.seller.1.7a5c5273R3oBPH&itemId=474712523&channelSource=pdp
+49,lazada,database/shop/image050.png,BORIN,Skirts,,,"4,7",2022,1.429,100%,https://www.lazada.vn/shop/borin?path=profile.htm&pageTypeId=3
+50,shopee,database/shop/image051.png,TD Fashion Store,"Shirts, Shorts, Jackets & Coats, Set",357,11.300,"4,8",2016,5.400,86%,https://shopee.vn/laynaer?categoryId=100011&entryPoint=ShopByPDP&itemId=7633455780
+51,lazada,database/shop/image052.png,bobothoitrang,"Shirts, Skirts, Dresses, Pants",,,"4,6",2018,15.476,96%,https://www.lazada.vn/shop/bobothoitrang?path=profile.htm&pageTypeId=3
+52,lazada,database/shop/image053.png,BAO-TIN FASHION,"Shirts, Skirts, Shorts, Pants, Pijamas",,,"4,2",2018,71.406,100%,https://www.lazada.vn/shop/bao-tin-fashion?path=profile.htm&pageTypeId=3
+53,lazada,database/shop/image054.png,2amcool,"Skirts, Shirts, Blouses, Dresses, Tanks, Camisoles, Coordinats, Leggings",,,"4,8",,6.960,80%,https://www.lazada.vn/shop/2amcool?path=profile.htm&pageTypeId=3
+54,lazada,database/shop/image055.png,pinkstore29,"Shirts, Blouses, Dresses, Skirts",,,"4,8",2021,66.023,97%,https://www.lazada.vn/pinkstore29/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+55,shopee,database/shop/image056.png,HMM_Store,"Pants, Shorts, Shirts",34,2.300,"4,9",2022,3.500,100%,https://shopee.vn/hmm_store2023?categoryId=100011&entryPoint=ShopByPDP&itemId=17897645904
+56,lazada,database/shop/image057.png,Huyken Shop,"Coats, Pants, Shirts, Shorts, Skirts, Dresses",,,3.8,2018,20.086,48%,https://www.lazada.vn/shop/huyken-shop?path=profile.htm&pageTypeId=3
+57,lazada,database/shop/image058.png,ULZZANG STORE HCM,"Pants, Shirts, Skirts, Dresses",,,"4,5",2020,59.565,73%,https://www.lazada.vn/shop/ulzzang-store-hcm?path=profile.htm&pageTypeId=3
+58,shopee,database/shop/image059.png,Fish Fashion,"Pants, Set, Shorts, Trunks & Boxers",178,4.400,"4,7",2020,8.500,91%,https://shopee.vn/fish_fashion_store?categoryId=100011&entryPoint=ShopByPDP&itemId=12313357321
+59,lazada,database/shop/image060.png,peaceful,"Hair Treatments, Shirts, Hair Coloring, Skirts",,,"4,7",2020,1.412,100%,https://www.lazada.vn/shop/hien-an?path=profile.htm&pageTypeId=3
+60,lazada,database/shop/image061.png,COQUI,"Dresses, Shirts",,,"4,9",2022,5.664,91%,https://www.lazada.vn/shop/coqui?path=profile.htm&pageTypeId=3
+61,lazada,database/shop/image060.png,Ruby's House,"Dresses, Shirts, Blouses",,,"3,8",2021,2.313,100%,https://www.lazada.vn/shop/ruby-s-house-1633785051?path=profile.htm&pageTypeId=3
+62,lazada,database/shop/image062.png,RUBIES.SG,"Dresses, Blouses, Shirts, Skirts, Jeans, Pants, Leggings",,,"4,9",2023,5.481,98%,https://www.lazada.vn/shop/rubies-sg?path=profile.htm&pageTypeId=3
+63,lazada,database/shop/image063.png,Callally,Dresses,,,"4,8",2023,1.036,100%,https://www.lazada.vn/shop/callalily?path=profile.htm&pageTypeId=3
+64,lazada,database/shop/image064.png,Ceci Store,"Dresses, Blouses, Skirts, Shirts, Sweaters",,,"4,1",2019,1.106,75%,https://www.lazada.vn/shop/ceci-store?path=profile.htm&pageTypeId=3
+65,lazada,database/shop/image065.png,MagicLady,"Accessories, Skirts, Dresses, Socks, Tights, Jeans, Pants, Leggings, Jumpsuits, Playsuits, Sweaters, Cardigans",,,"4,3",2019,26.141,100%,https://www.lazada.vn/shop/magiclady?path=profile.htm&pageTypeId=3
+66,lazada,database/shop/image066.png,NCE,"Pijamas, Shirts, Dresses, Jackets, Blouses, Pants, Bags",,,"4,4",2019,32.169,77%,https://www.lazada.vn/shop/nce?path=profile.htm&pageTypeId=3
+67,lazada,database/shop/image067.png,Glary Star Fashion MALL,"Dresses, Skirts, Pants, Leggings",,,"4,5",2022,7.857,,https://www.lazada.vn/shop/glary-star-fashion-mall?path=profile.htm&pageTypeId=3
+68,tiki,database/shop/image068.png,NEW FASHION DESIGN,"Shorts, Accessories, Skirts, Dress, Shirts",114,273,"4,7",2021,237,,https://tiki.vn/cua-hang/new-fashion-design?t=storeInfo
+69,tiki,database/shop/image069.png,CCHAT OFFICIAL STORE,"Skirts, Jumpsuits, Jeans, Dresses, Shirts",251,478,5,2021,1.100,66%,https://tiki.vn/cua-hang/cchatclothes?t=storeInfo
+70,tiki,database/shop/image070.png,jinshopteen,"Shirts, Pants, Skirts, Coats",1.581,4.900,"4,2",2019,1.900,77%,https://tiki.vn/cua-hang/jinshopteen?t=storeInfo
+71,tiki,database/shop/image071.png,spirit shop,"Skirts, Dresses",101,3.600,"4,7",2021,784,,https://tiki.vn/cua-hang/shop-linh-linh?t=storeInfo
+72,tiki,database/shop/image072.png,Ant home,"Accessories, Skirts, Dresses",2.225,7.700,"4,1",2018,972,,https://tiki.vn/cua-hang/ant-home?t=storeInfo
+73,tiki,database/shop/image071.png,ArcticHunter Store,"Shirts, Dresses",524,2.800,"4,1",2020,857,,https://tiki.vn/cua-hang/arctichunter-store?t=storeInfo
+74,tiki,database/shop/image074.png,MAYHOMES Official Store,"Accessories, Shirts, Skirts",174,5.100,"4,6",2018,2.400,66%,https://tiki.vn/cua-hang/may-fashion?t=storeInfo
+75,tiki,database/shop/image071.png,SoLa Shop,"Dresses, Sandals, Shirts",75,51,"4,5",2021,26,,https://tiki.vn/cua-hang/sola-shop?t=storeInfo
+76,tiki,database/shop/image075.png,Haint Boutique Official,"Shirts, Dresses, Pants",807,3.000,"3,8",2018,1.800,,https://tiki.vn/cua-hang/nh-fashion?t=storeInfo
+77,tiki,database/shop/image071.png,Jellystore Fashion,"Pants, Skirts",161,4.200,"4,6",2021,939,,https://tiki.vn/cua-hang/jelly?t=storeInfo
+78,tiki,database/shop/image076.png,DUI VIET Official,"Shirts, Dresses, Pants, Jackets & Coats",600,1.400,"3,9",2020,819,,https://tiki.vn/cua-hang/dui-viet?t=storeInfo
+79,tiki,database/shop/image071.png,Thu Huyen fashion,"Dresses, Shirts, Pants",569,648,"3,8",2020,246,,https://tiki.vn/cua-hang/thoi-trang-thu-huyen?t=storeInfo
+80,tiki,database/shop/image077.png,NKladies,"Dresses, Sandals",155,15,"4,9",2023,34,100%,https://tiki.vn/cua-hang/nkladies?t=storeInfo
+81,tiki,database/shop/image071.png,Hong tran shop,"Dresses, Jumpsuits",52,197,"4,2",2021,196,,https://tiki.vn/cua-hang/hong-tran-shop?t=storeInfo
+82,shopee,database/shop/image078.png,Clo.Essential,"Jackets & Coats, Shorts, Hats",86,1.500,"4,9",2022,22.800,92%,https://shopee.vn/clo.essential
+83,tiki,database/shop/imgae071.png,TINA FASHION,Dresses,903,3.000,"3,8",2020,707,,https://tiki.vn/cua-hang/thoi-trang-tina?t=storeInfo
+84,shopee,database/shop/image079.png,PARADOX,"Hoodies & Sweatshirts, Jackets & Coats, Shorts",346,67.500,"4,9",2020,686.700,99%,https://shopee.vn/paradox.worldwide
+85,shopee,database/shop/image080.png,BADCHOICES.VN,"Hoodies & Sweatshirts, Jackets & Coats, Shorts, Shirts, Pants",44,1.500,"4,9",2021,5.600,91%,https://shopee.vn/badchoices.vn
+86,shopee,database/shop/image081.png,STREET FOX,"Hoodies & Sweatshirts, Jackets & Coats, Shirts",64,7.900,"4,9",2019,41.200,96%,https://shopee.vn/streetfox.official
+87,shopee,database/shop/image082.png,MAYLAN STORE,"Hoodies & Sweatshirts, Jackets & Coats, Shorts, Shirts, Pants, Accessories",212,29.600,"4,9",2017,109.900,97%,https://shopee.vn/maylanstore
+88,shopee,database/shop/image083.png,Goût De Jun,"Skirts, Dress, Shorts, Jackets & Coats",299,7.700,"4,8",2019,144.100,97%,https://shopee.vn/goutdejun
+89,shopee,database/shop/image084.png,FSShop68,"Hoodies & Sweatshirts, Jackets & Coats, Shirts",682,28.500,"4,6",2017,33.500,85%,https://shopee.vn/thuybaby89
+90,shopee,database/shop/image085.png,DEXUS,"Accessories, Jackets & Coats, Skirts, Dress",343,2.600,"4,9",2023,119.400,92%,https://shopee.vn/dexusvn
+91,shopee,database/shop/image086.png,zenkonam,"Accessories, Jackets & Coats, Hoodies & Sweatshirts",820,56.300,"3,3",2016,44.500,65%,https://shopee.vn/zenkonam
+92,shopee,database/shop/image087.png,CChat Clothes,"Dress, Skirts, Shirts, Shorts, Jackets & Sweatshirts, Accessories",643,63.100,"4,9",2018,375.000,93%,https://shopee.vn/cchatclotheshn
+93,shopee,database/shop/image088.png,xuongquanduinam,"Shorts, Pants",268,4.300,"4,5",2020,3.300,94%,https://shopee.vn/xuongquanduinam?categoryId=100017&entryPoint=ShopByPDP&itemId=22981194660
+94,shopee,database/shop/image089.png,SAIGONZUP STORE,"Pants, Shorts",90,952,"4,9",2018,5.600,79%,https://shopee.vn/saigonzup.store?categoryId=100011&entryPoint=ShopByPDP&itemId=21811972805
+95,shopee,database/shop/image090.png,UX CLOTHING,Pants,14,374,"4,9",2021,13.100,95%,https://shopee.vn/uxclothing?categoryId=100011&entryPoint=ShopByPDP&itemId=22046268562
+96,shopee,database/shop/image091.png,whose.studio,"Jackets & Coats, Pants, Shorts, Set",84,24.400,"4,9",2023,102.400,69%,https://shopee.vn/whose.studio?categoryId=100011&entryPoint=ShopByPDP&itemId=22744869593
+97,shopee,database/shop/image092.png,peiqinhu.vn,"Hat, Shirts, Pants, Shorts",403,5,5,2022,49,85%,https://shopee.vn/peiqinhu.vn?categoryId=100011&entryPoint=ShopByPDP&itemId=23058333030
+98,shopee,database/shop/image093.png,MANSTR.vn,"Jackets & Coats, Shirts, Pants, Shorts",1.100,4.400,"4,7",2022,9.200,100%,https://shopee.vn/manstr.vn?categoryId=100011&entryPoint=ShopByPDP&itemId=20882526683
+99,shopee,database/shop/image094.png,HIDER.VN,"Jackets & Coats, Shirts, Pants",14,497,"4,8",2019,1.300,5%,https://shopee.vn/hider.vn?categoryId=100011&entryPoint=ShopByPDP&itemId=23807212440
+100,shopee,database/shop/image095.png,MATURE MEN STORE,"Pants, Shorts, Shirts, Set",15,2.400,"4,5",2020,1.900,86%,https://shopee.vn/dola1995.?categoryId=100011&entryPoint=ShopByPDP&itemId=23761710713
+101,shopee,database/shop/image096.png,Joan.studio,Pyjamas,36,3.600,"4,9",2020,2.200,90%,https://shopee.vn/joan.studio
+102,shopee,database/shop/image097.png,Wholesale Boss Jean,"Pants, Shirts, Skirts",61,59,"4,7",2022,5.100,94%,https://shopee.vn/trumsijean?categoryId=100017&entryPoint=ShopByPDP&itemId=23801144040
+103,shopee,database/shop/image098.png,Moment House,"Skirts, Dresses, Pants, Trunks & Boxers",321,25.000,"4,9",2018,149.700,97%,https://shopee.vn/momenthouse?categoryId=100011&entryPoint=ShopByPDP&itemId=7477120140
+104,shopee,database/shop/image099.png,letsgovietnam,"Shirts, Skirts, Pants, Shorts",1.800,2.500,"4,9",2020,5.800,98%,https://shopee.vn/letsgovietnam?categoryId=100011&entryPoint=ShopByPDP&itemId=23434773535
+105,shopee,database/shop/image100.png,A little fun,Spare parts,276,2.200,"4,8",2023,2.700,100%,https://shopee.vn/gorden12.vn?categoryId=100009&entryPoint=ShopByPDP&itemId=24253848829
+106,shopee,database/shop/image101.png,Shop for accessories and shoes,Spare parts,138,20.900,"4,9",2019,20.600,83%,https://shopee.vn/theshevn?categoryId=100009&entryPoint=ShopByPDP&itemId=23683668788
+107,shopee,database/shop/image102.png,xinyaofashionclothing.vn,Spare parts,226,None,None,2023,24,59%,https://shopee.vn/xinyaofashionclothing.vn?categoryId=100009&entryPoint=ShopByPDP&itemId=22881365564
+108,shopee,database/shop/image103.png,HUAZHENMIAN,Spare parts,304,1.500,"4,7",2023,11.800,100%,https://shopee.vn/galaxy09.vn?categoryId=100009&entryPoint=ShopByPDP&itemId=18085945434
+109,shopee,database/shop/image104.png,Bra & Knickers,Spare parts,472,152.200,"4,9",2017,108.300,80%,https://shopee.vn/anannshop?categoryId=100009&entryPoint=ShopByPDP&itemId=1602031702
+110,shopee,database/shop/image105.png,Super cheap 1996,Spare parts,2.900,41.100,"4,8",2019,19.400,99%,https://shopee.vn/1996storesieure?categoryId=100009&entryPoint=ShopByPDP&itemId=11756854928
+111,shopee,database/shop/image106.png,Bird House Bag,Spare parts,17,425,5,2017,1.400,99%,https://shopee.vn/tuinhachim?categoryId=100009&entryPoint=ShopByPDP&itemId=18629791268
+112,shopee,database/shop/image107.png,TeeHolic - Unisex T-shirt,Spare parts,714,10.100,"4,9",2016,82.200,97%,https://shopee.vn/teeholic_official?categoryId=100009&entryPoint=ShopByPDP&itemId=20001121333
+113,shopee,database/shop/image108.png,Tie Factory,Spare parts,404,31.600,"4,8",2018,18.600,97%,https://shopee.vn/daudenluuly?categoryId=100009&entryPoint=ShopByPDP&itemId=20839493939
+114,shopee,database/shop/image109.png,KOMI FASHION,Spare parts,82,5.500,5,2019,10.400,100%,https://shopee.vn/komi.store?categoryId=100009&entryPoint=ShopByPDP&itemId=17850982673
+115,shopee,database/shop/image110.png,hat shop,Spare parts,665,14.600,"4,9",2016,40.700,77%,https://shopee.vn/phuyen78?categoryId=100009&entryPoint=ShopByPDP&itemId=17074051921
+116,shopee,database/shop/image111.png,vvip.vn,Spare parts,2.500,5.100,"4,7",2018,1.500,100%,https://shopee.vn/vvip.vn?categoryId=100009&entryPoint=ShopByPDP&itemId=7506077313
+117,lazada,database/shop/image112.png,TB FASHION STORE,Spare parts,,,,2022,4.022,99%,https://www.lazada.vn/tb-fashion-store/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+118,lazada,database/shop/image113.png,Cherry_Makeup,Spare parts,,,,2021,1.045,100%,https://www.lazada.vn/shop/cherrymakeup?path=profile.htm&pageTypeId=3
+119,lazada,database/shop/image112.png,Moc Mall,Spare parts,,,,2020,5.589,100%,https://www.lazada.vn/shop/moc-mall/?spm=a2o4n.pdp_revamp.seller.1.6b1942c7fLCFip&itemId=2427219535&channelSource=pdp
+120,lazada,database/shop/image114.png,BeHat,Spare parts,,,,2019,1.247,,https://www.lazada.vn/shop/behat?path=profile.htm&pageTypeId=3
+121,lazada,database/shop/image115.png,GiHat,Spare parts,,,,2021,1.233,100%,https://www.lazada.vn/shop/gihat?path=profile.htm&pageTypeId=3
+122,lazada,database/shop/image116.png,Cap Store Vietnam,Spare parts,,,,2021,310,,https://www.lazada.vn/shop/cap-store-viet-nam?path=profile.htm&pageTypeId=3
+123,lazada,database/shop/image117.png,Hats for Men and Women,Spare parts,,,,2018,261,,https://www.lazada.vn/shop/non-mu-nam-nu?path=profile.htm&pageTypeId=3
+124,tiki,database/shop/image118.png,Aquaria,Spare parts,345,11.400,"4,6",2019,3.500,90%,https://tiki.vn/cua-hang/aquaria?t=storeInfo
+125,tiki,database/shop/image119.png,Eva Design,Spare parts,779,855,"4,5",2021,11.400,88%,https://tiki.vn/cua-hang/eva-design?t=storeInfo
+126,tiki,database/shop/image120.png,Doka Fashion,"Shorts, Pants, Shirts, Jackets & Coats, Accessories",134,2.100,"4,5",2018,406,100%,https://tiki.vn/cua-hang/eza?t=storeInfo
+127,tiki,database/shop/image121.png,5S FASHION,"Shorts, Pants, Shirts, Jackets & Coats",72,33.900,"4,7",2019,11.700,100%,https://tiki.vn/cua-hang/5s-official?t=product
+128,tiki,database/shop/image122.png,Nguyen Hung Fashion Garment Factory,"Pants, Shirts, Jackets & Coats",1.503,3.500,"3,9",2019,587,,https://tiki.vn/cua-hang/xuong-may-thoi-trang-nguyen-hung?source_screen=product_detail&source_engine=organic
+129,tiki,database/shop/image124.png,Ruby Sen Hong,"Shorts, Pants, Shirts, Jackets & Coats, Hoodies & Sweatshirts",1.683,2.500,"4,3",2020,1.100,100%,https://tiki.vn/cua-hang/ruby-sen-hong?source_screen=product_detail&source_engine=organic
+130,tiki,database/shop/image125.png,SG GARMENT FACTORY,Jackets & Coats,113,132,"4,3",2021,19,,https://tiki.vn/cua-hang/xuong-may-sg?t=product
+131,tiki,database/shop/image071.png,thotrangtp,"Shorts, Pants, Shirts, Hoodies & Sweatshirts, Jackets & Coats",1.039,462,"4,2",2021,213,,https://tiki.vn/cua-hang/thoitrangtp?t=product
+132,tiki,database/shop/image124.png,ThoitrangUnisexTP,"Shirts, Jackets & Coats, Hoodies & Sweatshirts",1.838,1.100,"4,3",2021,548,50%,https://tiki.vn/cua-hang/thoitrangunisextp?t=product
+133,tiki,database/shop/image126.png,Ima God Breaker,"Jackets & Coats, Hoodies & Sweatshirts",69,4,"4,8",2020,13,,https://tiki.vn/cua-hang/ima-god-breaker?t=storeInfo
+134,tiki,database/shop/image127.png,Jins Store,"Jackets & Coats, Hoodies & Sweatshirts, Pants, Shirts",1.161,3.100,"4,2",2019,846,,https://tiki.vn/cua-hang/jins-store?t=product
+135,tiki,database/shop/image129.png,jinshopteen,"Jackets & Coats, Hoodies & Sweatshirts, Skirts, Pants, Shorts",1.581,4.900,"4,2",2019,1.900,77%,https://tiki.vn/cua-hang/jinshopteen?t=product
+136,tiki,database/shop/image071.png,thaitrangthienphucunisex,"Jackets & Coats, Hoodies & Sweatshirts, Pants",2.099,1.000,"4,2",2021,606,,https://tiki.vn/cua-hang/thoitrangthienphucunisex?t=product
+137,tiki,database/shop/image130.png,LADOS,"Jackets & Coats, Skirts, Pants",91,2.700,"4,6",2021,1.900,95%,https://tiki.vn/cua-hang/thoi-trang-lados?t=product
+138,shopee,database/shop/image131.png,xamstore.vn,"Shoes, Shirts, Hat",482,533,"4,8",2021,11.300,96%,https://shopee.vn/xamstore.vn?categoryId=100011&entryPoint=ShopByPDP&itemId=22740503207
+139,shopee,database/shop/image132.png,ROSS STUDIO,"Shirts, Jackets & Coats, Pants, Shirts",64,2.000,"4,9",2019,21.700,96%,https://shopee.vn/rossstudio?categoryId=100017&entryPoint=ShopByPDP&itemId=23613806273
+140,shopee,database/shop/image133.png,UNDERYOUNG,"Shorts, Skirt, Pants",31,61,"4,9",2021,5.100,57%,https://shopee.vn/underyoung.vn?categoryId=100011&entryPoint=ShopByPDP&itemId=15331014847
+141,shopee,database/shop/image134.png,Aa - Aa Stu.,"Shirts, Pants, Shorts",97,3.100,"4,9",2019,36.100,98%,https://shopee.vn/aastu.vn?categoryId=100011&entryPoint=ShopByPDP&itemId=18872858859
+142,shopee,database/shop/image135.png,unishop47pvh,"Jackets & Coats, Shorts, Trunks & Boxers, Shirts",33,1.600,"4,9",2021,7.700,91%,https://shopee.vn/unishop47pvh?categoryId=100011&entryPoint=ShopByPDP&itemId=13830347149
+143,shopee,database/shop/image136.png,Billion Versement,"Trunks & Boxers, Shirts, Dresses, Pants",28,2.800,"4,9",2021,54.300,91%,https://shopee.vn/blvm.official?categoryId=100017&entryPoint=ShopByPDP&itemId=23174796645
+144,shopee,database/shop/image137.png,Dirty Coins,"Shoes, Pants, Shirts, Jackets & Coats",267,63.000,"4,9",2018,844.000,98%,https://shopee.vn/dirtycoins?categoryId=100017&entryPoint=ShopByPDP&itemId=21980249967
+145,shopee,database/shop/image138.png,LATIFAH,"Jackets & Coats, Shirts, Shorts, Pants",105,12.800,"4,9",2021,141.800,97%,https://shopee.vn/latifah_office?categoryId=100017&entryPoint=ShopByPDP&itemId=23766263556
+146,shopee,database/shop/image139.png,K&T SHOP,"Pants, Shorts",5,1.400,"4,9",2018,13.400,100%,https://shopee.vn/store_neww?categoryId=100017&entryPoint=ShopByPDP&itemId=8881616694
+147,lazada,database/shop/image140.png,ADO JEANS,"Pants,Shorts",,,,2022,3.070,100%,https://www.lazada.vn/shop/ado-jeans?path=profile.htm&pageTypeId=3
+148,lazada,database/shop/image141.png,Tuong Vy Shop- XMHH,"Pants,Shorts",,,,2022,1.447,90%,https://www.lazada.vn/tuong-vy-shop-xmhh/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+149,lazada,database/shop/image142.png,T&T New Fashion,"Pants,Shorts",,,,2018,2.107,100%,https://www.lazada.vn/shop/tt-new-fashion/?spm=a2o4n.pdp_revamp.seller.1.274b3206eD2SgR&itemId=2005986557&channelSource=pdp
+150,lazada,database/shop/image143.png,Molly Fashion,"Shirts, Pants, Shorts",,,,2018,42.543,22%,https://www.lazada.vn/shop/molly-fashion?path=index.htm&lang=en&pageTypeId=1
+151,lazada,database/shop/image144.png,HOANGKIMFASHION,"Shirts, Pants, Shorts, Jackets & Coats",,,,2018,4.655,75%,https://www.lazada.vn/shop/hoangkimfashion?path=profile.htm&pageTypeId=3
+152,lazada,database/shop/image145.png,Kay_store,"Shirts, Pants, Shorts",,,,2021,5.756,87%,https://www.lazada.vn/shop/kaystore1629982127/?spm=a2o4n.pdp_revamp.seller.1.74a470a6YJfekJ&itemId=1874721100&channelSource=pdp
+153,tiki,database/shop/image146.png,MRM Manlywear Official,"Shorts, Trunks & Boxers, Shirts",68,12.200,"4,7",2019,3.100,83%,https://tiki.vn/cua-hang/mrm-manlywear-official?t=storeInfo
+154,tiki,database/shop/image147.png,Giordano Vietnam,"Shirts, Shorts, Pants",112,435,"4,8",2019,2.000,,https://tiki.vn/cua-hang/giordano-vietnam?source_screen=product_detail&source_engine=organic
+155,tiki,database/shop/image071.png,PONIVALAZA,"Shirts, Shorts, Pants",115,148,"4,1",2021,44,,https://tiki.vn/cua-hang/ponny-fashion?source_screen=product_detail&source_engine=organic
+156,tiki,database/shop/image071.png,Chiki home fashion,"Pyjamas, Pants, Shirts, Shorts",68,212,"4,4",2020,177,,https://tiki.vn/cua-hang/thoi-trang-mac-nha-chiki?t=storeInfo
+157,lazada,database/shop/image148.png,WHOLESALE WAREHOUSES ORIGINAL PRICES,"Jackets & Coats, Hoodies & Sweatshirts",,,"4,3",2018,9.659,,https://www.lazada.vn/kho-si-gia-goc/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+158,lazada,database/shop/image149.png,Super cheap accessories (HCMC),"Accessories, Jackets & Coats",,,4,2014,8.903,100%,https://www.lazada.vn/shop/phukien-sieu-re-tphcm?path=index.htm&lang=en&pageTypeId=1
+159,lazada,database/shop/image124.png,SHOP NEWS BUY SAM NEWS,"Pants, Jackets & Coats, Hoodies & Sweatshirts",,,"4,7",2017,485,100%,https://www.lazada.vn/shop/shop-niem-tin-mua-sam?path=profile.htm&pageTypeId=3
+160,lazada,database/shop/image150.png,GenZTeeOfficial,"Jackets & Coats, Hoodies & Sweatshirts, Shirts",,,"4,7",2020,396,,https://www.lazada.vn/genzteeofficial/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+161,lazada,database/shop/image124.png,JOIN 2,"Jackets & Coats, Hoodies & Sweatshirts, Pants, Accessories",,,"4,4",2018,327,100%,https://www.lazada.vn/join-2/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+162,shopee,database/shop/image151.png,lemanhtuanmobifone,"Hats, Jackets & Coats, Hoodies & Sweatshirts, Accessories",698,857,"4,3",2017,223,77%,https://shopee.vn/lemanhtuanmobifone?categoryId=100011&entryPoint=ShopByPDP&itemId=907577010
+163,lazada,database/shop/image152.png,N77_Fashion,"Shirts, Pants, Shorts, Jackets & Coats",,,"4,8",2021,5.118,64%,https://www.lazada.vn/n77fashion/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+164,lazada,database/shop/image153.png,Trong Sport,"Shirts, Pants, Shorts, Jackets & Coats",,,"4,9",2019,9.771,100%,https://www.lazada.vn/trong-sport/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+165,lazada,database/shop/image154.png,ares shop 2222,"Jackets & Coats, Trunks & Boxers, Hats, Accessories",,,"4,9",2019,14.634,78%,https://www.lazada.vn/ares-shop-2222/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
+166,lazada,database/shop/image155.png,TAI XI TAI,"Hats, Jackets & Coats, Hoodies & Sweatshirts, Accessories, Trunks & Boxers",,,"4,9",2020,330,100%,https://www.lazada.vn/tai-xi-tai/?q=All-Products&from=wangpu&langFlag=en&pageTypeId=2
